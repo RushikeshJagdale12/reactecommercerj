@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactecommercerj/static/css/main.fb55d4e4.css",
+    "main.js": "/reactecommercerj/static/js/main.48fb3daa.js",
+    "static/js/787.2f62bb68.chunk.js": "/reactecommercerj/static/js/787.2f62bb68.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactecommercerj/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/reactecommercerj/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/reactecommercerj/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/reactecommercerj/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/reactecommercerj/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/reactecommercerj/index.html",
+    "main.fb55d4e4.css.map": "/reactecommercerj/static/css/main.fb55d4e4.css.map",
+    "main.48fb3daa.js.map": "/reactecommercerj/static/js/main.48fb3daa.js.map",
+    "787.2f62bb68.chunk.js.map": "/reactecommercerj/static/js/787.2f62bb68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb55d4e4.css",
+    "static/js/main.48fb3daa.js"
+  ]
+}
